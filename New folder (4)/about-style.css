@@ -1,0 +1,43 @@
+﻿.img6 {
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+}
+
+.about1 {
+    background-color: #000033;
+    margin-top: -41px;
+    line-height: 80px;
+}
+    .about1 h1 {
+        color: white;
+        font-weight: 300;
+        font-size: 85px;
+        text-align: center;
+        
+    }
+
+.about2 {
+    width: 70%;
+    line-height: 2em;
+    margin: 50px auto;
+    text-align: center;
+}
+
+    .about1 h1 {
+        font-size: 3em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+    }
+
+    .about2 h2 {
+        font-size: 1.875em;
+        font-weight: 400;
+        font-family: GillSansMT-Light,Gill Sans Light,GillSans-Light,"Gill Sans Light","Gill Sans",GillSans,"Gill Sans MT","Nimbus Sans L","Trebuchet MS",Calibri,sans-serif;
+    }
+
+.about2 p {
+    text-align: justify;
+    font-size:20px;
+    word-spacing:3px;
+}

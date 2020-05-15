@@ -1,0 +1,77 @@
+﻿.img7 {
+    background-size: cover;
+    width: 100%;
+   
+}
+.contact{
+    text-align:center;
+}
+    .contact h2 {
+        font-size: 3em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+        color:darkgray;
+        margin:-205px auto;
+    }
+    .contact p {
+        font-size: 4em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+        color: darkgray;
+    }
+
+.contact1 {
+    background-color: #000033;
+    margin:200px auto;
+    line-height: 80px;
+}
+
+    .contact1 h1{
+        color: white;
+        font-weight: 300;
+        font-size: 85px;
+        text-align: center;
+    }
+
+.contact3 {
+    width: 44%;
+    line-height: 2em;
+    margin: -70px auto;
+    text-align: center;
+}
+
+    .contact3 h1 {
+        font-size: 2.375em;
+        font-weight: 400;
+        font-family: GillSansMT,"Gill Sans MT",GillSans,Calibri,"Trebuchet MS","Nimbus Sans L",sans-serif;
+    }
+
+
+
+    .contact3 p {
+        text-align:center;
+    }
+
+.sec2 {
+    text-align: center;
+    margin: 170px auto;
+}
+
+    .sec2 h1 {
+        margin: -400px 40px 0px 30px;
+        font-size: 3em;
+        font-weight: 200;
+        font-family: GillSansMT-Light,Gill Sans Light,GillSans-Light,"Gill Sans Light","Gill Sans",GillSans,"Gill Sans MT","Nimbus Sans L","Trebuchet MS",Calibri,sans-serif;
+        line-height: 1.5625em;
+        color: white;
+    }
+
+    .sec2 h5 {
+        margin:30px auto;
+        color: white;
+        font-size: 2em;
+        font-weight: 100;
+        width: 50%;
+        
+    }
+    
